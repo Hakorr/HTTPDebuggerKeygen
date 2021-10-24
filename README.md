@@ -1,6 +1,8 @@
 # HTTPDebuggerKeygen
 A reverse engineered C# version of a Keygen for the [HTTP Debugger](https://www.httpdebugger.com/).
 
+### Yarr! Ahoy, matey! Ye be welcome 'ere!
+
 The Keygen works by creating a registery key to `Software\\MadeForNet\\HTTPDebuggerPro`.
 #### An example key
 | Value name      | Value data |
