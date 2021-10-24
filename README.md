@@ -7,7 +7,7 @@ The Keygen works by creating a registery key to `Software\\MadeForNet\\HTTPDebug
 #### An example key
 | Value name      | Value data |
 | ----------- | ----------- |
-| SNXXXXXXXXXX     | XXXXXX7CXXXXXXX      |
+| SNXXXXXXXXXX     | XXXXXX7CXXXXXXXX  (16)|
 
 ## Todo
 
