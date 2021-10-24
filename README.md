@@ -11,7 +11,7 @@ The Keygen works by creating a registery key to `Software\\MadeForNet\\HTTPDebug
 
 ## Todo
 
-1. Create a function for the name value
+1. Create function(s) for the value name
 
     * The key needs a correct name so the program recognizes it— e.g, `SN1234567890`. The name isn't static, your disk's serial number affects it, so it can't be shared.
 
